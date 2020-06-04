@@ -1,13 +1,13 @@
-var money = 250;
-let income = 10;
-const addExpenses = 100;
-var deposit = '50% скидки ,дествуют до 2 мая не упусти момент приобрести новую модель "Mi Band-5" ';
-const mission = "Написать переменную и вывести в консоль!";
-let period = "2 second";
+let money ;
+let income ;
+let addExpenses ;
+let deposit ;
+let mission ;
+let period ;
 
 
-console.log(mission);
-alert(deposit);
+console.log('Жизнь боль когда в Java Scripte ноль');
+alert('Just do it');
 
 
 
